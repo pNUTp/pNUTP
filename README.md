@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/user-attachments/assets/c71464b1-1f5c-40bd-a724-dadeb22b8116" alt="Hi" width="30" height="30">, I'm Ganesh Kumar Reddy .L</h1>
 <h3 align="center">I'm a student studying AI and Data Science, and I am passionate about Autonomous Vehicles. Currently, I’m researching Enhancing Driver Vision and exploring new ways to push the boundaries of AI.</h3>
 
--  ![image](https://github.com/user-attachments/assets/a9eb5bf9-ebea-495d-87ba-b4f1596a55d7) I’m currently learning **Applied Deep Learning for Autonomous Vehicles**
--  ![image](https://github.com/user-attachments/assets/cf2ee355-394c-49db-8cfa-770d26cafb99) We can talk about **Transformers, Python, LLMs**
--  ![image](https://github.com/user-attachments/assets/53935b4b-6548-492e-83ed-37818e9dd6c9) How to Contact me **darkyou682@gmail.com**
+--  ![image](https://github.com/user-attachments/assets/a9eb5bf9-ebea-495d-87ba-b4f1596a55d7) I’m currently learning **Applied Deep Learning for Autonomous Vehicles**
+--  ![image](https://github.com/user-attachments/assets/cf2ee355-394c-49db-8cfa-770d26cafb99) We can talk about **Transformers, Python, LLMs**
+--  ![image](https://github.com/user-attachments/assets/53935b4b-6548-492e-83ed-37818e9dd6c9) How to Contact me **darkyou682@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
