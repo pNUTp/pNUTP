@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![image](https://github.com/user-attachments/assets/c71464b1-1f5c-40bd-a724-dadeb22b8116), I'm Ganesh Kumar Reddy .L</h1>
+<h1 align="center">Hi <img src="https://github.com/user-attachments/assets/c71464b1-1f5c-40bd-a724-dadeb22b8116" alt="Hi" width="30" height="30">, I'm Ganesh Kumar Reddy .L</h1>
 <h3 align="center">I'm a student studying AI and Data Science, and I am passionate about Autonomous Vehicles. Currently, I’m researching Enhancing Driver Vision and exploring new ways to push the boundaries of AI.</h3>
 
 -  ![image](https://github.com/user-attachments/assets/a9eb5bf9-ebea-495d-87ba-b4f1596a55d7) I’m currently learning **Applied Deep Learning for Autonomous Vehicles**
