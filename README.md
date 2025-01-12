@@ -5,8 +5,6 @@
 -  ![image](https://github.com/user-attachments/assets/cf2ee355-394c-49db-8cfa-770d26cafb99) We can talk about **Transformers, Python, LLMs**
 -  ![image](https://github.com/user-attachments/assets/53935b4b-6548-492e-83ed-37818e9dd6c9) How to Contact me **darkyou682@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
